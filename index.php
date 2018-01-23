@@ -16,7 +16,7 @@
         <img class="header__logo" src="images/city.png" alt="iconic view of a cityscape">
         <h1 class="header__title">
           Association of Nigeria Nurse Educator
-        </h1><h3> Ogun State Chapter</h3>
+        </h1><h3 class="header__title"> Ogun State Chapter</h3>
         <a id="menu" class="header__menu">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
             <path d="M2 6h20v3H2zm0 5h20v3H2zm0 5h20v3H2z"/>
@@ -30,7 +30,6 @@
         <li class="nav__item"><a href="#">News</a></li>
         <li class="nav__item"><a href="#">Events</a></li>
         <li class="nav__item"><a href="#">About us</a></li>
-        <li class="nav__item"><a href="#">Member&rsquos List</a></li>
         <li class="nav__item"><a href="#">Blog</a></li>
       </ul>
     </nav>
@@ -98,8 +97,6 @@
       <footer>
         <ul>
           <li><a href="#">Contact us</a></li>
-          <li><a href="#">Follow us on Twitter</a></li>
-          <li><a href="#">RSS</a></li>
           <li><a href="#">About Us</a></li>
         </ul>
       </footer>
