@@ -95,7 +95,7 @@
         </section>
       </section>
       <footer>
-        <ul text-align: center>
+        <ul class="nav__list">
           <li><a href="#">Contact us</a></li>
           <li><a href="#">About Us</a></li>
         </ul>
