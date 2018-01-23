@@ -14,7 +14,7 @@
     <header class="header">
       <div class="header__inner">
         <h2 class="header__title">
-          Association of Nigeria Nurse Educator
+          Association of Nigeria Nurse Educators
         </h2> 
         <h3 class="header__title2"> Ogun State Chapter</h3>
         <a id="menu" class="header__menu">
@@ -27,10 +27,11 @@
 
     <nav id="drawer" class="nav">
       <ul class="nav__list">
+        <li class="nav__item"><a href="#">Home</a></li>
         <li class="nav__item"><a href="#">News</a></li>
         <li class="nav__item"><a href="#">Events</a></li>
         <li class="nav__item"><a href="#">About us</a></li>
-        <li class="nav__item"><a href="#">Blog</a></li>
+        <li class="nav__item"><a href="#">Gallery</a></li>
       </ul>
     </nav>
 
