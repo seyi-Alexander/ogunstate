@@ -13,10 +13,10 @@
 
     <header class="header">
       <div class="header__inner">
-         <!–– <img class="header__logo" src="images/city.png" alt="iconic view of a cityscape">-->
         <h2 class="header__title">
           Association of Nigeria Nurse Educator
-        </h2> <h3  class="header__title" align="center" > Ogun State Chapter</h3>
+        </h2> 
+        <h3 class="header__title2"> Ogun State Chapter</h3>
         <a id="menu" class="header__menu">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
             <path d="M2 6h20v3H2zm0 5h20v3H2zm0 5h20v3H2z"/>
@@ -95,7 +95,7 @@
         </section>
       </section>
       <footer>
-        <ul class="nav__list">
+        <ul class="#">
           <li><a href="#">Contact us</a></li>
           <li><a href="#">About Us</a></li>
         </ul>
