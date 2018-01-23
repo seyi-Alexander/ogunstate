@@ -15,7 +15,7 @@
       <div class="header__inner">
         <img class="header__logo" src="images/city.png" alt="iconic view of a cityscape">
         <h1 class="header__title">
-          The Ogun State Nursing Asso
+          The Ogun State Nursing
         </h1>
         <a id="menu" class="header__menu">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
