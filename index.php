@@ -13,7 +13,7 @@
 
     <header class="header">
       <div class="header__inner">
-        <img class="header__logo" src="images/city.png" alt="iconic view of a cityscape">
+         <!–– <img class="header__logo" src="images/city.png" alt="iconic view of a cityscape">-->
         <h2 class="header__title">
           Association of Nigeria Nurse Educator
         </h2> <h3  align="center" > Ogun State Chapter</h3>
