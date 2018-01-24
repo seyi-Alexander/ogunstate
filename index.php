@@ -27,11 +27,10 @@
 
     <nav id="drawer" class="nav">
       <ul class="nav__list">
-        <li class="nav__item"><a href="#">Home</a></li>
         <li class="nav__item"><a href="#">News</a></li>
         <li class="nav__item"><a href="#">Events</a></li>
-        <li class="nav__item"><a href="#">About us</a></li>
         <li class="nav__item"><a href="#">Gallery</a></li>
+        <li class="nav__item"><a href="#">Hot Topics</a></li>
       </ul>
     </nav>
 
