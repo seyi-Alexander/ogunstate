@@ -34,7 +34,7 @@
       </ul>
     </nav>
 
-    <!--<main>
+    <main>
       <section class="content">
         <section class="hero">
           <article class="description">
@@ -100,7 +100,7 @@
           <li><a href="#">About Us</a></li>
         </ul>
       </footer>
-    </main>-->
+    </main>
     <script>
       /*
        * Open the drawer when the menu ison is clicked.
