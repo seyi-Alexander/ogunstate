@@ -1,0 +1,143 @@
+*y {
+    outline: 1px solid red !important;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -msbox-sizing: border-box;
+    box-sizing: birder-box;
+}
+body {
+    font-family: font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+}
+.titleEdit {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    background-color: darkslateblue;
+    color: aliceblue;
+}
+.slideContent {
+    box-sizing: border-box;
+    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 40%;
+    width: 100%;
+    color: #ffff;
+    padding: 1em;
+    color: aliceblue;
+}
+@media screen and (max-width: 500px) {
+    .homeImg {
+        width: 100%;
+        height: 250px;
+    }
+    .content {
+        padding: 0;
+    }
+    .hideTitle {
+        display: none;
+    }
+}
+@media screen and (min-width: 500px) {
+    .homeImg {
+        width: 100%;
+        height: 300px;
+    }
+}
+@media screen and (min-width: 715px) {
+    .homeImg {
+        width: 100%;
+        height: 350px;
+    }
+}
+@media screen and (max-width: 755px) {
+    .titleEdit {
+        font-family: sans-serif;
+        text-align: center;
+        font-size: 24px;
+        font-weight: 400;
+        background-color: darkslateblue;
+        color: aliceblue;
+    }
+}
+@media screen and (min-width: 755px) {
+    .homeImg {
+        width: 100%;
+        height: 300px;
+    }
+}
+@media screen and (min-width: 890px) {
+    .homeImg {
+        width: 100%;
+        height: 300px;
+    }
+}
+@media screen and (min-width: 900px) {
+    .homeImg {
+        width: 100%;
+        height: 310px;
+    }
+}
+@media screen and (min-width: 1000px) {
+    .homeImg {
+        width: 100%;
+        height: 400px;
+    }
+}
+.divChange {
+    position: absolute;
+    z-index: -10;
+}
+.listgroup {
+    position: relative;
+    left: -20px;
+}
+.news__more {
+    float: right;
+    color: #333;
+    text-decoration: none;
+    font-size: 15px;
+}
+.agenda {}
+
+/* Dates */
+
+.agenda .agenda-date {
+    width: 170px;
+}
+.agenda .agenda-date .dayofmonth {
+    width: 40px;
+    font-size: 36px;
+    line-height: 36px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+}
+.agenda .agenda-date .shortdate {
+    font-size: 0.75em;
+}
+
+/* Times */
+
+.agenda .agenda-time {
+    width: 140px;
+}
+
+/* Events */
+
+.agenda .agenda-events {}
+.agenda .agenda-events .agenda-event {}
+#owl-demo .item {
+    margin: 3px;
+}
+#owl-demo .item img {
+    display: block;
+    width: 100%;
+    height: 200px;
+}
