@@ -174,7 +174,7 @@
                 <img class="card-img-top" src="http://via.placeholder.com/350x150">
                 <div class="card-block">
                     <h4 class="card-title">Oseni Rukayat Ejide</h4>
-                    <p class="card-text">Asst.chief Nurse Educator
+                    <p class="card-text">Chairman<br>Asst.chief Nurse Educator
                         <br>SON, SHH, Lantoro.
                         <br>Age: 46years
                         <br>Gender: Female</p>
